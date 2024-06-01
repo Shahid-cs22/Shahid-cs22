@@ -1,8 +1,8 @@
-Hi ![]My name is Mohamed Shahid S
+Hi ! My name is Mohamed Shahid S
 ======================================================================================================================================
 
 * 🌍  I'm based in NagerCoil, KaniyaKumari
-* ✉️  You can contact me at [mohamedshahid.cs22@stellamaryscoe.edu.in] & moh.shahid2004@gmail.com
+* ✉️  You can contact me at [ mohamedshahid.cs22@stellamaryscoe.edu.in & moh.shahid2004@gmail.com ]
 
 <a href="https://www.github.com/Shahid-cs22" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Shahid-cs22?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> <br>
