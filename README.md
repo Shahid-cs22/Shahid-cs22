@@ -1,7 +1,7 @@
 # 📰 About me
 
-<a href="https://github.com/lowlighter/metrics">
-  <img src="./github-metrics.svg" alt="Metrics" />
+<a href="https://github.com/Shahid-cs22/metrics">
+  <img src="./github-Shahid-cs22.svg" alt="Metrics" />
 </a>
 
 Hi ! I'm MOHD_SHAHID 
