@@ -12,7 +12,7 @@ Hi ! I'm MOHD_SHAHID
 <a href="https://www.github.com/Shahid-cs22" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Shahid-cs22?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> <br>
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Shahid-cs22&label=Profile%20Views&color=0&icon=2&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=Shahid-cs22&label=Profile%20Views&color=0&icon=2&pretty=true"/>
 </a>
 
 ### 🖥️ Skills:
