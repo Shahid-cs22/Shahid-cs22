@@ -5,7 +5,7 @@
 Hi ! I'm MOHD_SHAHID 
 ======================================================================================================================================
 
-* 🌍  I'm based in NagerCoil, KaniyaKumari
+* 🌍  I'm based in Nagercoil, KaniyaKumari, India
 * ✉️  You can contact me at <h4>[ mohamedshahid.cs22@stellamaryscoe.edu.in ]
 [ moh.shahid2004@gmail.com ]</h4>
 
