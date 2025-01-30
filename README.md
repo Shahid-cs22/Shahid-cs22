@@ -59,3 +59,4 @@ src="https://img.shields.io/github/followers/Shahid-cs22?logo=github&style=for-t
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+![Prophet Muhammad Quote](https://dummyimage.com/600x200/000/fff&text=The+best+among+you+are+those+who+have+the+best+manners+and+character.)
