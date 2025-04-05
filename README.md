@@ -60,18 +60,21 @@ I'm <strong>Mohamed Shahid</strong>, a passionate <strong>Software Engineer</str
 
 ---
 
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://drive.google.com/drive/folders/1dT51N7jXK5VGM7rKVkBeSDIJVEY3hVoW" target="_blank">
-    <img src="https://img.shields.io/badge/-Google%20Drive-1a73e8?style=for-the-badge&logo=google-drive&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-0AE9F3?style=for-the-badge&logo=vercel&logoColor=black" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+## 🔗 Connect with Me  
+  
+<p align="center">  
+  <a href="https://shahid-cs22.github.io/Shahidpersonal/" target="_blank">  
+    <img src="https://img.shields.io/badge/-Portfolio-0AE9F3?style=for-the-badge&logo=vercel&logoColor=black" />  
+  </a>  
+  <a href="#" target="_blank">  
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />  
+  </a>  
+  <a href="https://twitter.com/mohd_shahid04" target="_blank">  
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />  
+  </a>  
+  <a href="https://instagram.com/_sha_.offl._" target="_blank">  
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />  
+  </a>  
 </p>
 
 ---
