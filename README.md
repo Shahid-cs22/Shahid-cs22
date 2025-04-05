@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there, I'm Mohamed Shahid! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+<h1 align="center">Hi there, I'm Mohamed Shahid! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <h3 align="center">🧑‍💻 Full-Stack Web Developer | ⚙️ Tech Tinkerer | 🚀 Dream Builder</h3>
 
@@ -11,7 +11,7 @@
 
 ## 🌟 About Me
 
-> I'm Mohamed Shahid, a passionate **Full-Stack Developer** who loves to build dynamic, user-centric web apps. My journey started with curiosity and grew into a full-blown obsession with tech.
+> I'm Mohamed Shahid, a passionate **Software Engineer** who loves to build dynamic, user-centric web apps. My journey started with curiosity and grew into a full-blown obsession with tech.
 
 I love:
 
