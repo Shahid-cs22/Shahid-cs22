@@ -11,9 +11,7 @@
 
 ## 🧑‍💻 Who Am I?
 
-<p>
 I'm <strong>Mohamed Shahid</strong>, a passionate <strong>Software Engineer</strong> who brings ideas to life through clean, elegant, and efficient code. With a strong eye for design and a love for problem-solving, I focus on delivering delightful user experiences.
-</p>
 
 - 🌱 Currently learning: React JS, GSAP Animations, and Firebase Functions  
 - 🔨 Building: A personal portfolio, a dashboard system, and a dev blog  
@@ -30,12 +28,18 @@ I'm <strong>Mohamed Shahid</strong>, a passionate <strong>Software Engineer</str
 
 ---
 
-## 📈 My GitHub World
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedrashid&show_icons=true&theme=radical&hide_border=true&custom_title=My+GitHub+Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedrashid&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahid-cs22&show_icons=true&theme=algolia&hide_border=false&rank_icon=percentile&title_color=00C9A7&icon_color=FFD700&text_color=E5E5E5&bg_color=0D1117" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-cs22&layout=compact&theme=algolia&hide_border=false&title_color=00C9A7&text_color=E5E5E5&bg_color=0D1117" width="42%" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shahid-cs22&theme=highcontrast&hide_border=false&ring=FFB000&fire=F85C50&currStreakLabel=00C9A7" width="90%" />
+</p>
+
+
 
 ---
 
@@ -87,8 +91,4 @@ I'm <strong>Mohamed Shahid</strong>, a passionate <strong>Software Engineer</str
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
-
-<p align="center">
-  .
 </p>
