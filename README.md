@@ -1,4 +1,3 @@
-<!-- Hero Banner -->
 <h1 align="center">Hey there, I'm Mohamed Shahid! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></h1>
 
 <h3 align="center">🚀 Full-Stack Developer | UI/UX Lover | Code Artisan</h3>
@@ -31,12 +30,12 @@ I'm <strong>Mohamed Shahid</strong>, a passionate <strong>Software Engineer</str
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shahid-cs22&show_icons=true&theme=algolia&hide_border=false&rank_icon=percentile&title_color=00C9A7&icon_color=FFD700&text_color=E5E5E5&bg_color=0D1117" width="42%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-cs22&layout=compact&langs_count=8&theme=algolia&hide_border=false&title_color=00C9A7&text_color=E5E5E5&bg_color=0D1117&custom_title=🌟%20Most%20Used%20Languages" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahid-cs22&show_icons=true&theme=algolia&hide_border=false&rank_icon=percentile&title_color=00C9A7&icon_color=FFD700&text_color=E5E5E5&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-cs22&layout=compact&langs_count=8&theme=algolia&hide_border=false&title_color=00C9A7&text_color=E5E5E5&bg_color=0D1117&custom_title=🌟%20Most%20Used%20Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shahid-cs22&theme=highcontrast&hide_border=false&ring=FFB000&fire=F85C50&currStreakLabel=00C9A7" width="90%" />
+  <img src="https://streak-stats.demolab.com?user=Shahid-cs22&theme=highcontrast&hide_border=false&ring=FFB000&fire=F85C50&currStreakLabel=00C9A7" width="96%" />
 </p>
 
 ---
@@ -62,7 +61,7 @@ I'm <strong>Mohamed Shahid</strong>, a passionate <strong>Software Engineer</str
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Connect with Me  
 
 <p align="center">  
   <a href="https://shahid-cs22.github.io/Shahidpersonal/" target="_blank">  
