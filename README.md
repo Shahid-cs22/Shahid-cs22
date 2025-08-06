@@ -32,14 +32,12 @@ I'm <strong>Mohamed Shahid</strong>, a passionate <strong>Software Engineer</str
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shahid-cs22&show_icons=true&theme=algolia&hide_border=false&rank_icon=percentile&title_color=00C9A7&icon_color=FFD700&text_color=E5E5E5&bg_color=0D1117" width="42%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-cs22&layout=compact&theme=algolia&hide_border=false&title_color=00C9A7&text_color=E5E5E5&bg_color=0D1117" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-cs22&layout=compact&langs_count=8&theme=algolia&hide_border=false&title_color=00C9A7&text_color=E5E5E5&bg_color=0D1117&custom_title=🌟%20Most%20Used%20Languages" width="42%" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Shahid-cs22&theme=highcontrast&hide_border=false&ring=FFB000&fire=F85C50&currStreakLabel=00C9A7" width="90%" />
 </p>
-
-
 
 ---
 
@@ -50,7 +48,7 @@ I'm <strong>Mohamed Shahid</strong>, a passionate <strong>Software Engineer</str
 - **[Animated Portfolio Website](#)** – Fully responsive with smooth scroll and dark mode toggle  
 - **[TaskFlow Manager](#)** – A sleek MERN app to manage tasks visually with drag-drop  
 - **[Feedback Form + Google Sheet Sync](#)** – Custom form with Google Sheet backend & admin dashboard  
-- **[DevUI Components](#)** – A mini design system built using Tailwind + AlpineJS
+- **[DevUI Components](#)** – A mini design system built using Tailwind + AlpineJS  
 
 > *(Live links coming soon)*
 
@@ -64,8 +62,8 @@ I'm <strong>Mohamed Shahid</strong>, a passionate <strong>Software Engineer</str
 
 ---
 
-## 🔗 Connect with Me  
-  
+## 🔗 Connect with Me
+
 <p align="center">  
   <a href="https://shahid-cs22.github.io/Shahidpersonal/" target="_blank">  
     <img src="https://img.shields.io/badge/-Portfolio-0AE9F3?style=for-the-badge&logo=vercel&logoColor=black" />  
