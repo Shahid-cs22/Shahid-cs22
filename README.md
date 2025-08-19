@@ -1,16 +1,14 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-  <span style="background: linear-gradient(90deg, #00f5a0, #00d9f5, #ff00e5); -webkit-background-clip: text; color: transparent; font-weight: bold; font-size: 28px;">
-    Hey there, I'm Mohamed Shahid!
-  </span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hey there, I'm Mohamed Shahid!
 </h1>
 
-<h3 align="center" style="color: #00f5a0;">
+<h3 align="center">
   🚀 Full-Stack Developer | UI/UX Enthusiast | Code Artisan
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1000&color=00F5A0&center=true&vCenter=true&width=750&lines=+Transforming+Ideas+into+Web+Magic...;🎨+Designing+Sleek+UI,+Building+Powerful+Backends...;📚+Always+Learning,+Always+Improving!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1000&color=00F5A0&center=true&vCenter=true&width=750&lines=Transforming+Ideas+into+Web+Magic...;🎨+Designing+Sleek+UI,+Building+Powerful+Backends...;📚+Always+Learning,+Always+Improving!" alt="Typing SVG" />
 </p>
 
 ---
@@ -58,7 +56,7 @@
 
 <p align="center">
   <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahid-cs22&bg_color=0d1117&color=00f5a0&line=ff00e5&point=ffffff&area=true&hide_border=true" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahid-cs22&theme=tokyo-night&bg_color=0d1117&hide_border=true" width="98%" />
 </p>
 
 ---
@@ -69,7 +67,7 @@
 
 > Hand-picked projects that showcase my skills:
 
-- **[🌐 Animated Portfolio Website](#)** – Responsive, dark-mode, smooth scroll  
+- **[🌐 Animated Portfolio Website](https://shahid-cs22.github.io/Shahidpersonal/)** – Responsive, dark-mode, smooth scroll  
 - **[📋 TaskFlow Manager](#)** – MERN app with drag-drop task boards  
 - **[📊 Feedback + Google Sheet Sync](#)** – Form + GSheet backend + dashboard  
 - **[🎨 DevUI Components](#)** – Mini design system with Tailwind + AlpineJS  
@@ -94,7 +92,7 @@
 
 ## 🔗 **Connect with Me**
 
-<p align="center" style="font-size: 16px; color: #00f5a0;">
+<p align="center">
   📬 Let's connect! I'm always excited to collaborate, discuss ideas, or just chat about tech.
 </p>
 
@@ -102,7 +100,7 @@
   <a href="https://shahid-cs22.github.io/Shahidpersonal/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00f5a0" />
   </a>  
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
     <img src="https://img.shields.io/badge/💼 LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00f5a0" />
   </a>  
   <a href="https://twitter.com/mohd_shahid04" target="_blank">
@@ -119,6 +117,6 @@
 
 ---
 
-<p align="center" style="color: #00f5a0;">
+<p align="center">
   <b>✨ Thanks for visiting! Let’s build something amazing together. ✨</b>
 </p>
