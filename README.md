@@ -38,13 +38,16 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.png" width="100%">
+
 
 ## ⚙️ **Tech Stack**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,firebase,tailwind,figma,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,firebase,tailwind,figma,git,vscode&theme=dark" 
+       alt="Tech Stack Icons" />
 </p>
+
+
 
 ---
 
