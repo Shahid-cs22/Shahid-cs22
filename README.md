@@ -3,27 +3,38 @@
   Hey there, I'm Mohamed Shahid!
 </h1>
 
-<h3 align="center">
-  🚀 Full-Stack Developer | UI/UX Enthusiast | Code Artisan
-</h3>
+<div align="center">
+  <h3>🚀 Full-Stack Developer | UI/UX Enthusiast | Code Artisan</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1000&color=00F5A0&center=true&vCenter=true&width=750&lines=Transforming+Ideas+into+Web+Magic...;🎨+Designing+Sleek+UI,+Building+Powerful+Backends...;📚+Always+Learning,+Always+Improving!" alt="Typing SVG" />
-</p>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1000&color=00F5A0&center=true&vCenter=true&width=750&lines=Transforming%20Ideas%20into%20Web%20Magic...;%F0%9F%8E%A8%20Designing%20Sleek%20UI%2C%20Building%20Powerful%20Backends...;%F0%9F%93%9A%20Always%20Learning%2C%20Always%20Improving!"
+  alt="Typing SVG"
+/>
+
+</div>
+
 
 ---
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🧑‍💻 **Who Am I?**
+## 🧑‍💻 Who Am I?
 
-💡 **Passionate Software Engineer** crafting clean, efficient & elegant code.  
-⚡ **Blend of design + engineering** to create intuitive digital experiences.  
+💡 A **Passionate Software Engineer** who loves crafting **clean, efficient, and elegant code**.  
+⚡ I blend **design + engineering** to build **intuitive digital experiences** that users enjoy.  
 
-- 🌱 Currently learning: **React JS, GSAP Animations, Firebase Functions**  
-- 🔨 Building: **Portfolio, Dashboard, Dev Blog**  
-- 🎯 Goal: Create **impactful, user-loved products**  
-- 💬 Ask me about: **JavaScript, React, Node JS, Firebase, UI/UX, APIs**  
+---
+
+### 🚀 What I'm Up To
+- 🌱 **Learning:** React JS · GSAP Animations · Firebase Functions  
+- 🛠 **Building:** Portfolio · Dashboard · Dev Blog  
+- 🎯 **Goal:** Develop impactful, user-loved products  
+
+---
+
+### 💬 Let's Talk About
+✨ JavaScript · React · Node.js · Firebase · UI/UX · APIs  
+  
 
 ---
 
