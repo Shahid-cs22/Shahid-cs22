@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   Hey there, I'm Mohamed Shahid!
-</h1>
+</h1>  
 
 <div align="center">
   <h3>🚀 Full-Stack Developer | UI/UX Enthusiast | Code Artisan</h3>
@@ -37,6 +37,8 @@
   
 
 ---
+<a href="https://www.github.com/Shahid-cs22" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Shahid-cs22?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
 
