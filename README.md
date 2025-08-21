@@ -1,6 +1,9 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Hey there, I'm Mohamed Shahid!
+  <span style="background: linear-gradient(90deg, #00f5a0, #00d9f5, #ff00e5); 
+              -webkit-background-clip: text; color: transparent; font-weight: bold;">
+    Hey there, I'm Mohamed Shahid!
+  </span>
 </h1>  
 
 <div align="center">
@@ -13,8 +16,11 @@
 
 </div>
 
-
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shahid-cs22&label=👀+Profile+Views&color=ff00e5&style=for-the-badge" />
+</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -34,13 +40,11 @@
 
 ### 💬 Let's Talk About
 ✨ JavaScript · React · Node.js · Firebase · UI/UX · APIs  
-  
 
 ---
-<a href="https://www.github.com/Shahid-cs22" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Shahid-cs22?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
+---
 
 ## ⚙️ **Tech Stack**
 
@@ -48,8 +52,6 @@ src="https://img.shields.io/github/followers/Shahid-cs22?logo=github&style=for-t
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,firebase,tailwind,figma,git,vscode&theme=dark" 
        alt="Tech Stack Icons" />
 </p>
-
-
 
 ---
 
@@ -77,20 +79,36 @@ src="https://img.shields.io/github/followers/Shahid-cs22?logo=github&style=for-t
 
 ---
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shahid-cs22&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/space.png" width="100%">
 
 ## 🔥 **Featured Projects**
 
 > Hand-picked projects that showcase my skills:
 
-- **[🌐 Animated Portfolio Website](https://shahid-cs22.github.io/Shahidpersonal/)** – Responsive, dark-mode, smooth scroll  
-- **[📋 TaskFlow Manager](#)** – MERN app with drag-drop task boards  
-- **[📊 Feedback + Google Sheet Sync](#)** – Form + GSheet backend + dashboard  
-- **[🎨 DevUI Components](#)** – Mini design system with Tailwind + AlpineJS  
+- 🌐 **[Animated Portfolio Website](https://shahid-cs22.github.io/Shahidpersonal/)**  
+  _Responsive, dark-mode, smooth scroll experience_
+
+- 📋 **[TaskFlow Manager](#)**  
+  _MERN app with drag-drop task boards_
+
+- 📊 **[Feedback + Google Sheet Sync](#)**  
+  _Form submission → GSheet backend → dashboard_
+
+- 🎨 **[DevUI Components](#)**  
+  _Mini design system built with Tailwind + AlpineJS_
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/heart.png" width="100%">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/heart.png" width="100%">
+</p>
+
 
 ## ✍️ **Dev Quote of the Day**
 
@@ -113,17 +131,20 @@ src="https://img.shields.io/github/followers/Shahid-cs22?logo=github&style=for-t
 </p>
 
 <p align="center">
+  <a href="mailto:shahidcs22@gmail.com">
+    <img src="https://img.shields.io/badge/📧 Email Me-ff00e5?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://shahid-cs22.github.io/Shahidpersonal/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00f5a0" />
-  </a>  
+    <img src="https://img.shields.io/badge/🌐 Portfolio-00f5a0?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/💼 LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00f5a0" />
-  </a>  
+    <img src="https://img.shields.io/badge/💼 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://twitter.com/mohd_shahid04" target="_blank">
-    <img src="https://img.shields.io/badge/🐦 Twitter-000000?style=for-the-badge&logo=twitter&logoColor=00f5a0" />
-  </a>  
+    <img src="https://img.shields.io/badge/🐦 Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
   <a href="https://instagram.com/_sha_.offl._" target="_blank">
-    <img src="https://img.shields.io/badge/📸 Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ff00e5" />
+    <img src="https://img.shields.io/badge/📸 Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>  
 </p>
 
@@ -135,4 +156,8 @@ src="https://img.shields.io/github/followers/Shahid-cs22?logo=github&style=for-t
 
 <p align="center">
   <b>✨ Thanks for visiting! Let’s build something amazing together. ✨</b>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.png" width="100%">
 </p>
