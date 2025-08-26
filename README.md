@@ -61,31 +61,49 @@
 
 <p align="center">
   <!-- Profile Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Shahid-cs22&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=percentile&bg_color=0d1117&title_color=00f5a0&icon_color=00f5a0&text_color=c9d1d9" width="49%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Shahid-cs22&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=percentile&bg_color=0d1117&title_color=00f5a0&icon_color=00f5a0&text_color=c9d1d9" 
+    width="49%" 
+  />
   
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-cs22&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0d1117&title_color=ff00e5&text_color=c9d1d9" width="49%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-cs22&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0d1117&title_color=ff00e5&text_color=c9d1d9" 
+    width="49%" 
+  />
 </p>
 
 <p align="center">
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=Shahid-cs22&hide_border=true&theme=neon-dark&background=0d1117&ring=00f5a0&fire=ff00e5&currStreakLabel=00f5a0" width="98%" />
+  <img 
+    src="https://streak-stats.demolab.com?user=Shahid-cs22&hide_border=true&theme=neon-dark&background=0d1117&ring=00f5a0&fire=ff00e5&currStreakLabel=00f5a0" 
+    width="98%" 
+  />
 </p>
 
 <p align="center">
   <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahid-cs22&theme=tokyo-night&bg_color=0d1117&hide_border=true" width="98%" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Shahid-cs22&theme=tokyo-night&bg_color=0d1117&hide_border=true" 
+    width="98%" 
+  />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shahid-cs22&theme=algolia&no-frame=true&row=1&column=6" />
+  <!-- Trophies -->
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Shahid-cs22&theme=algolia&no-frame=true&row=1&column=6" 
+  />
 </p>
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/space.png" width="100%">
+<img 
+  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/space.png" 
+  width="100%"
+/>
 
 ## 🔥 **Featured Projects**
 
