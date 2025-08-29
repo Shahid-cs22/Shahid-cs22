@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <span style="background: linear-gradient(90deg, #00f5a0, #00d9f5, #ff00e5); 
+  <span style="background: linear-gradient(90deg, #7c3aed, #a855f7, #9333ea); 
               -webkit-background-clip: text; color: transparent; font-weight: bold;">
     Hey there, I'm Mohamed Shahid!
   </span>
@@ -10,7 +10,7 @@
   <h3>🚀 Full-Stack Developer | UI/UX Enthusiast | Code Artisan</h3>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1000&color=00F5A0&center=true&vCenter=true&width=750&lines=Transforming%20Ideas%20into%20Web%20Magic...;%F0%9F%8E%A8%20Designing%20Sleek%20UI%2C%20Building%20Powerful%20Backends...;%F0%9F%93%9A%20Always%20Learning%2C%20Always%20Improving!"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Transforming%20Ideas%20into%20Web%20Magic...;%F0%9F%8E%A8%20Designing%20Sleek%20UI%2C%20Building%20Powerful%20Backends...;%F0%9F%93%9A%20Always%20Learning%2C%20Always%20Improving!"
   alt="Typing SVG"
 />
 
@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shahid-cs22&label=👀+Profile+Views&color=ff00e5&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Shahid-cs22&label=👀+Profile+Views&color=7c3aed&style=for-the-badge" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -43,9 +43,6 @@
 
 ---
 
-
----
-
 ## ⚙️ **Tech Stack**
 
 <p align="center">
@@ -62,54 +59,41 @@
 <p align="center">
   <!-- Profile Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Shahid-cs22&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=percentile&bg_color=0d1117&title_color=00f5a0&icon_color=00f5a0&text_color=c9d1d9" 
+    src="https://github-readme-stats.vercel.app/api?username=Shahid-cs22&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=percentile&bg_color=1e1e2e&title_color=a855f7&icon_color=9333ea&text_color=c9d1d9" 
     width="49%" 
   />
   
   <!-- Most Used Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-cs22&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0d1117&title_color=ff00e5&text_color=c9d1d9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-cs22&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=1e1e2e&title_color=7c3aed&text_color=c9d1d9" 
     width="49%" 
   />
 </p>
 
-<p align="center">
-  <!-- GitHub Streak -->
 ## 🔥 GitHub Streaks  
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=Shahid-cs22&theme=tokyonight&hide_border=true&background=0d1117" 
+    src="https://streak-stats.demolab.com?user=Shahid-cs22&theme=tokyonight&hide_border=true&background=1e1e2e&ring=a855f7&fire=9333ea&currStreakLabel=a855f7" 
     alt="GitHub Streak"
   />
+</p>
 
-
-
-
+<p align="center">
   <!-- GitHub Activity Graph -->
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Shahid-cs22&theme=tokyo-night&bg_color=0d1117&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Shahid-cs22&theme=tokyo-night&bg_color=1e1e2e&hide_border=true&color=a855f7&line=9333ea&point=a855f7" 
     alt="Activity Graph"
     width="98%"
   />
 </p>
-
-
-
-
-<!-- Activity graph -->
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shahid-cs22&theme=tokyo-night&bg_color=0d1117&hide_border=true" alt="Activity Graph" width="98%" />
-</p>
-
-
-
 
 ---
 
 <p align="center">
   <!-- Trophies -->
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=Shahid-cs22&theme=algolia&no-frame=true&row=1&column=6" 
+    src="https://github-profile-trophy.vercel.app/?username=Shahid-cs22&theme=discord&no-frame=true&row=1&column=6" 
   />
 </p>
 
@@ -121,8 +105,6 @@
 />
 
 ## 🔥 **Featured Projects**
-
-> Hand-picked projects that showcase my skills:
 
 - 🌐 **[Animated Portfolio Website](https://shahid-cs22.github.io/Shahidpersonal/)**  
   _Responsive, dark-mode, smooth scroll experience_
@@ -142,11 +124,10 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/heart.png" width="100%">
 </p>
 
-
 ## ✍️ **Dev Quote of the Day**
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
@@ -165,10 +146,10 @@
 
 <p align="center">
   <a href="mailto:shahidcs22@gmail.com">
-    <img src="https://img.shields.io/badge/📧 Email Me-ff00e5?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/📧 Email Me-9333ea?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://shahid-cs22.github.io/Shahidpersonal/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-00f5a0?style=for-the-badge&logo=vercel&logoColor=black" />
+    <img src="https://img.shields.io/badge/🌐 Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
     <img src="https://img.shields.io/badge/💼 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
