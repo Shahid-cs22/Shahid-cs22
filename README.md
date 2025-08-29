@@ -73,10 +73,22 @@
   />
 </p>
 
-<!-- Streak stats -->
 <p align="center">
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=Shahid-cs22&theme=tokyo-night&hide_border=true" alt="GitHub Streak" />
+  <!-- GitHub Streak -->
+  <img 
+    src="https://streak-stats.demolab.com?user=Shahid-cs22&theme=tokyonight&hide_border=true&background=0d1117" 
+    alt="GitHub Streak"
+  />
+
+  <!-- GitHub Activity Graph -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Shahid-cs22&theme=tokyo-night&bg_color=0d1117&hide_border=true" 
+    alt="Activity Graph"
+    width="98%"
+  />
+</p>
+
+
 
 
 <!-- Activity graph -->
