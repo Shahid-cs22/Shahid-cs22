@@ -73,13 +73,8 @@
   />
 </p>
 
-<p align="center">
-  <!-- Streak Stats -->
-  <img 
-    src="https://streak-stats.demolab.com?user=Shahid-cs22&hide_border=true&theme=neon-dark&background=0d1117&ring=00f5a0&fire=ff00e5&currStreakLabel=00f5a0" 
-    width="98%" 
-  />
-</p>
+<!-- Streak stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=Shahid-cs22&theme=tokyo-night&hide_border=true&date_format=M%20j,%20Y&align=center)
 
 <p align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
