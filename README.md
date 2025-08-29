@@ -74,16 +74,13 @@
 </p>
 
 <!-- Streak stats -->
-![GitHub Streak](https://streak-stats.demolab.com?user=Shahid-cs22&theme=tokyo-night&hide_border=true&date_format=M%20j,%20Y&align=center)
-
 <p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img
-      alt="Shahid's GitHub Activity Graph"
-      src="https://github-readme-activity-graph.cyclic.app/graph?username=Shahid-cs22&theme=tokyo-night&bg_color=0d1117&hide_border=true&v=1"
-      width="98%"
-    />
-  </a>
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=Shahid-cs22&theme=tokyo-night&hide_border=true" alt="GitHub Streak" />
+
+
+<!-- Activity graph -->
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shahid-cs22&theme=tokyo-night&bg_color=0d1117&hide_border=true" alt="Activity Graph" width="98%" />
 </p>
 
 
