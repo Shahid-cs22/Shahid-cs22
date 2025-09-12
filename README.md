@@ -87,6 +87,10 @@
     width="98%"
   />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=dark" alt="streak"/>
+</p>
 
 ---
 
