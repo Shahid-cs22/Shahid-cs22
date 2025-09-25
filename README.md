@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   <span style="background: linear-gradient(90deg, #7c3aed, #a855f7, #9333ea); 
               -webkit-background-clip: text; color: transparent; font-weight: bold;">
-    Hey there, I'm Mohamed Shahid!
+    Hey there, I'm Shahid!
   </span>
 </h1>  
 
