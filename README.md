@@ -102,13 +102,14 @@ GitHub · Jira
 </p>
 
 <p align="center">
-  <!-- GitHub Activity Graph -->
+
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Shahid-cs22&theme=tokyo-night&bg_color=1e1e2e&hide_border=true&color=a855f7&line=9333ea&point=a855f7" 
-    alt="Activity Graph"
-    width="98%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-cs22&layout=compact&hide_border=true&langs_count=10&theme=tokyonight&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9" 
+    width="48%" 
+    alt="Top Languages"
   />
 </p>
+
 
 
 ---
