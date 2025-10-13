@@ -79,37 +79,44 @@ GitHub · Jira
 ## 📊 **GitHub Insights**
 
 <p align="center">
+
   <!-- Profile Stats -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Shahid-cs22&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=percentile&bg_color=1e1e2e&title_color=a855f7&icon_color=9333ea&text_color=c9d1d9" 
     width="49%" 
+    alt="Shahid's GitHub Stats"
   />
-  
+
   <!-- Most Used Languages -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-cs22&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=1e1e2e&title_color=7c3aed&text_color=c9d1d9" 
     width="49%" 
+    alt="Shahid's Most Used Languages"
   />
+
 </p>
 
-## 🔥 GitHub Streaks  
+---
+
+## 🔥 **GitHub Streaks**
 
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=Shahid-cs22&theme=tokyonight&hide_border=true&background=1e1e2e&ring=a855f7&fire=9333ea&currStreakLabel=a855f7" 
-    alt="GitHub Streak"
+    alt="GitHub Streak Stats"
   />
 </p>
+
+---
+
+## 🏆 **GitHub Trophies**
 
 <p align="center">
-
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-cs22&layout=compact&hide_border=true&langs_count=10&theme=tokyonight&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9" 
-    width="48%" 
-    alt="Top Languages"
+    src="https://github-profile-trophy.vercel.app/?username=Shahid-cs22&theme=discord&no-frame=true&row=1&column=6" 
+    alt="GitHub Profile Trophies"
   />
 </p>
-
 
 
 ---
