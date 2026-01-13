@@ -7,7 +7,7 @@
 </h1>  
 
 <div align="center">
-  <h3>🚀 Full-Stack Developer | UI/UX Enthusiast | Code Artisan</h3>
+  <h3>🚀 Full-Stack Developer | Code Artisan</h3>
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Transforming%20Ideas%20into%20Web%20Magic...;%F0%9F%8E%A8%20Designing%20Sleek%20UI%2C%20Building%20Powerful%20Backends...;%F0%9F%93%9A%20Always%20Learning%2C%20Always%20Improving!"
@@ -26,36 +26,36 @@
 
 ## 🧑‍💻 Who Am I?
 
-💡 A **Passionate Software Engineer** who loves crafting **clean, efficient, and elegant code**.  
-⚡ I blend **design + engineering** to build **intuitive digital experiences** that users enjoy.  
+I’m a Computer Science student and passionate Full Stack Developer with hands-on experience building scalable web applications using React and modern JavaScript frameworks. I enjoy working across both front-end and back-end, focusing on clean code, responsive design, and collaborative development.
+ 
 
 ---
 
 ### 🚀 What I'm Up To
-- 🌱 **Learning:** React JS · GSAP Animations · Firebase Functions  
-- 🛠 **Building:** Portfolio · Dashboard · Dev Blog  
-- 🎯 **Goal:** Develop impactful, user-loved products  
+- 🌱 Learning modern web technologies like React.js, TypeScript, and Express  
+- 🛠 Building real-world projects including a portfolio, e-commerce app, dashboards, and a dev blog  
+- 🎯 Aiming to create scalable, impactful products users love
 
 ---
 
 ### 💬 Let's Talk About
-✨ JavaScript · React · Node.js · Firebase · UI/UX · APIs  
+✨ JavaScript · React · Node.js · MongoDB · UI/UX · APIs  
 
 ---
 
 ## ⚙️ **Tech Stack**
 
 **Frontend:**  
-React.js · Next.js · JavaScript · TailwindCSS 
+React.js · JavaScript · TailwindCSS · MUI
 
 **Backend:**  
 Node.js · Express.js
 
 **Database:**  
-PostgreSQL • mongodb 
+PostgreSQL • MongoDB 
 
 **Tools:**  
-GitHub · Jira 
+GitHub · VsCode
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
