@@ -206,3 +206,4 @@ GitHub · VsCode
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.png" width="100%">
 </p>
+https://chatgpt.com/gg/v/69414cc6d52881988b2e8ca2d7892ef5?token=7gpf5VIvf8itmF3k-V4GCA
