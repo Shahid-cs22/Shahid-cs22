@@ -76,27 +76,27 @@ GitHub · VsCode
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png" width="100%">
 
-## 📊 **GitHub Insights**
+📊 GitHub Insights
 
-<p align="center">
+<p align="center"><!-- GitHub Stats --><img 
+src="https://github-readme-stats.vercel.app/api?username=Shahid-cs22&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=percentile" 
+width="48%" 
+alt="Shahid's GitHub Stats"
+/>
 
-  <!-- Profile Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Shahid-cs22&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=percentile&bg_color=1e1e2e&title_color=a855f7&icon_color=9333ea&text_color=c9d1d9" 
-    width="49%" 
-    alt="Shahid's GitHub Stats"
-  />
+<!-- Top Languages --><img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-cs22&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" 
+width="48%" 
+alt="Top Languages"
+/>
 
-  <!-- Most Used Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-cs22&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=1e1e2e&title_color=7c3aed&text_color=c9d1d9" 
-    width="49%" 
-    alt="Shahid's Most Used Languages"
-  />
+</p><p align="center"><!-- GitHub Streak --><img 
+src="https://streak-stats.demolab.com?user=Shahid-cs22&theme=tokyonight&hide_border=true" 
+width="60%" 
+alt="GitHub Streak"
+/>
 
 </p>
-
----
 
 ## 🔥 **GitHub Streaks**
 
