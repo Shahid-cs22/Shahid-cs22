@@ -21,41 +21,32 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- 📖 Quranic Reflection Section -->
+<!-- 📖 Dynamic Quran Quotes & Reflections -->
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <h3>✨ <i>Ayah of Inspiration</i> ✨</h3>
-        <p dir="rtl" style="font-size: 22px; font-weight: bold; color: #a855f7;">
-          ۝ وَقُل رَّبِّ زِدْنِي عِلْمًا ۝
-        </p>
-        <p><i>"And say: 'My Lord, increase me in knowledge.'"</i></p>
-        <sub>— Surah Taha [20:114]</sub>
-        <br/><br/>
-        <p dir="rtl" style="font-size: 18px; color: #9333ea;">
-          ۝ فَإِنَّ مَعَ الْعُسْرِ يُسْرًا ۝ إِنَّ مَعَ الْعُسْرِ يُسْرًا ۝
-        </p>
-        <p><i>"For indeed, with hardship comes ease. Indeed, with hardship comes ease."</i></p>
-        <sub>— Surah Ash-Sharh [94:5-6]</sub>
-      </td>
-    </tr>
-  </table>
+  <p dir="rtl" style="font-size: 24px; font-weight: bold; color: #a855f7; margin-bottom: 4px;">
+    ۝ وَقُل رَّبِّ زِدْنِي عِلْمًا ۝
+  </p>
+
+  <!-- Animated Quran Quotes that change and rotate on loop / reload -->
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1800&color=A855F7&center=true&vCenter=true&width=750&lines=%F0%9F%93%96+%22My+Lord%2C+increase+me+in+knowledge.%22+%E2%80%94+Surah+Taha+[20%3A114];%F0%9F%93%96+%22Indeed%2C+with+hardship+comes+ease.%22+%E2%80%94+Surah+Ash-Sharh+[94%3A6];%F0%9F%93%96+%22So+remember+Me%3B+I+will+remember+you.%22+%E2%80%94+Surah+Al-Baqarah+[2%3A152];%F0%9F%93%96+%22And+He+is+with+you+wherever+you+are.%22+%E2%80%94+Surah+Al-Hadid+[57%3A4];%F0%9F%93%96+%22My+success+can+only+come+from+Allah.%22+%E2%80%94+Surah+Hud+[11%3A88]"
+    alt="Rotating Quran Quotes"
+  />
 </div>
 
 ---
 
 ## 🧑‍💻 Who Am I?
 
-I’m a Computer Science student and passionate **Full Stack Developer** with hands-on experience building scalable web applications using React and modern JavaScript ecosystems. I enjoy working across both frontend and backend, focusing on clean code, responsive design, and intuitive user experiences.
+I’m a Computer Science student and passionate **Full Stack Developer** with hands-on experience building scalable web applications using React and modern JavaScript frameworks. I enjoy working across both frontend and backend, focusing on clean code, responsive design, and collaborative development.
 
 ### 🚀 What I'm Up To
-- 🌱 **Learning:** React.js, TypeScript, Next.js & modern full-stack architectures  
-- 🛠 **Building:** Real-world projects including portfolio sites, e-commerce apps, and dashboards  
-- 🎯 **Goals:** Architecting scalable, impactful products that deliver real value
+- 🌱 Learning modern web technologies like React.js, TypeScript, and Express  
+- 🛠 Building real-world projects including a portfolio, e-commerce apps, and dashboards  
+- 🎯 Aiming to create scalable, impactful products users love  
 
 ### 💬 Let's Talk About
-✨ JavaScript · React · TypeScript · Node.js · Express · MongoDB · PostgreSQL · UI/UX · REST APIs  
+✨ JavaScript · React · TypeScript · Node.js · MongoDB · PostgreSQL · UI/UX · APIs  
 
 ---
 
@@ -126,20 +117,20 @@ I’m a Computer Science student and passionate **Full Stack Developer** with ha
 ## 🔥 **Featured Projects**
 
 - 🌐 **[Animated Portfolio Website](https://shahid-cs22.github.io/Shahidpersonal/)**  
-  _Responsive, dark-mode, smooth scroll experience._
+  _Responsive, dark-mode, smooth scroll experience_
 
 - 📋 **[TaskFlow Manager](#)**  
-  _MERN app with drag-and-drop task boards._
+  _MERN app with drag-and-drop task boards_
 
 - 📊 **[Feedback + Google Sheet Sync](#)**  
-  _Form submission → Google Sheets automated backend → real-time dashboard._
+  _Form submission → Google Sheets automated backend → real-time dashboard_
 
 - 🎨 **[DevUI Components](#)**  
-  _Clean UI design system built with Tailwind CSS & modern interaction patterns._
+  _Clean UI design system built with Tailwind CSS & modern interaction patterns_
 
 ---
 
-## 🐍 **Contribution Snake Activity**
+## 🐍 **Contribution Activity**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shahid-cs22/Shahid-cs22/output/github-contribution-grid-snake-dark.svg">
@@ -160,7 +151,7 @@ I’m a Computer Science student and passionate **Full Stack Developer** with ha
 ## 🔗 **Connect with Me**
 
 <p align="center">
-  📬 <i>I'm always excited to collaborate, discuss ideas, or chat about web tech!</i>
+  📬 <i>I'm always excited to collaborate, discuss ideas, or chat about tech!</i>
 </p>
 
 <p align="center">
